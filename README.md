@@ -49,7 +49,7 @@
 
 ### 部署环境
 
-- 操作系统：Linux CentOS7 X64
+- 操作系统：Linux CentOS7.4-64bit
 
 ### 项目管理工具
 
